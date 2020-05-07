@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_rock">Rock</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_pop">Pop</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_clasical">Clasical Music</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_blues">Blues</string>
+    <string name="song">Song</string>
+    <string name="artist">Artist</string>
+</resources>

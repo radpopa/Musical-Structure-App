@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#3F51B5</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#000000</color>
+
+    <color name="colorAccent">#FF4081</color>
+    <!-- Background color for app -->
+    <color name="background">#F0F4C3</color>
+
+
+    <!-- Background color for the clasical category -->
+    <color name="category_clasical">#FF6E40</color>
+
+    <!-- Background color for the blues category -->
+    <color name="category_blues">#379237</color>
+
+    <!-- Background color for the pop category -->
+    <color name="category_pop">#8800A0</color>
+
+    <!-- Background color for the rock category -->
+    <color name="category_rock">#16AFCA</color>
+</resources>
